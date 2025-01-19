@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533328896608",
+    "project_id": "laboratoriska-firebase-cetvrta",
+    "storage_bucket": "laboratoriska-firebase-cetvrta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533328896608:android:efddf03a908cf284ce9905",
+        "android_client_info": {
+          "package_name": "com.example.mis_l4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MnZNIYlhV0eIQb1Ye1-dQNrIXHpCUyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

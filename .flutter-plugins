@@ -1,0 +1,26 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/cloud_firestore-5.6.1/
+cloud_firestore_web=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/cloud_firestore_web-4.4.1/
+firebase_auth=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/firebase_auth-5.4.0/
+firebase_auth_web=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/firebase_auth_web-5.13.6/
+firebase_core=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/firebase_core-3.10.0/
+firebase_core_web=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/firebase_core_web-2.19.0/
+flutter_local_notifications=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/flutter_local_notifications-16.3.3/
+flutter_local_notifications_linux=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/flutter_local_notifications_linux-4.0.1/
+flutter_plugin_android_lifecycle=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24/
+geolocator=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/geolocator-10.1.1/
+geolocator_android=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/geolocator_android-4.6.1/
+geolocator_apple=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.8+1/
+geolocator_web=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/geolocator_web-2.2.1/
+geolocator_windows=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/geolocator_windows-0.2.3/
+google_maps_flutter=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/google_maps_flutter-2.10.0/
+google_maps_flutter_android=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.14.12/
+google_maps_flutter_ios=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/google_maps_flutter_ios-2.13.2/
+google_maps_flutter_web=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/google_maps_flutter_web-0.5.10/
+url_launcher=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/url_launcher-6.3.1/
+url_launcher_android=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/
+url_launcher_ios=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.2/
+url_launcher_linux=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+url_launcher_macos=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/
+url_launcher_web=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/url_launcher_web-2.4.0/
+url_launcher_windows=/Users/lorenboshkoski/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
